@@ -4,7 +4,7 @@ Esse trabalho tinha o objetivo recriar a página de login do Facebook.
 Aqui, também desenvolvi meu primeiro projeto não indivual. Juntamente com meu colega de turma Diego Correia, pudemos pela primeira vez praticar o desenvolvimento em equipe utilizando as ferramentas do Git e GitHub.   
 
 Como conclusão, dessa vez não vou falar de desafios encontrados no projeto. Mas sim de solução. Até a chegada do bloco referente a esse projeto, sempre tive uma dificuldade no CSS, que era o posicionamento e distribuição de elementos em uma página web. Esse bloco e esse projeto veio como luz na apresentação de uma ferramenta para simplicar esse trabalho. Aprendi aqui a utilizar o Flexbox, que é uma ferramenta do CSS para o posicionamente de elementos.
-A partir de então  esse trabalho ficou bastante simplificado e nunca mais deixei de usar o Flexbox em meus projetos fron-end.
+A partir de então,  esse trabalho ficou bastante simplificado e nunca mais deixei de usar o Flexbox em meus projetos fron-end.
 
 ---
 
